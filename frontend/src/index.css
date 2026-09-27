@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, "Noto Sans Devanagari", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "Cascadia Code", monospace;
+
+  /* status palette — identical in every chart and badge */
+  --color-linked: #16a34a;
+  --color-review: #d97706;
+  --color-clarify: #f59e0b;
+  --color-unplanned: #2563eb;
+  --color-hse: #dc2626;
+  --color-dup: #6b7280;
+
+  --color-brand: #0f766e;
+  --color-brand-2: #115e59;
+}
+
+:root {
+  --bg: #f6f7f9;
+  --panel: #ffffff;
+  --panel-2: #f1f5f9;
+  --ink: #0f172a;
+  --muted: #64748b;
+  --line: #e2e8f0;
+}
+.dark {
+  --bg: #0b1220;
+  --panel: #111a2c;
+  --panel-2: #172238;
+  --ink: #e5e7eb;
+  --muted: #94a3b8;
+  --line: #22304a;
+}
+
+html, body, #root { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; }
+.muted { color: var(--muted); }
+.hairline { border-color: var(--line); }
+
+/* recharts text follows the theme */
+.recharts-text, .recharts-cartesian-axis-tick-value { fill: var(--muted); font-size: 11px; }
+.recharts-cartesian-grid line { stroke: var(--line); }
+.recharts-default-tooltip { background: var(--panel) !important; border: 1px solid var(--line) !important; border-radius: 8px; color: var(--ink); }
+
+.leaflet-container { background: var(--panel-2); border-radius: 12px; font-family: var(--font-sans); }
+
+/* field app — high contrast, big targets */
+.field-root { font-size: 18px; }
+.tap { min-height: 56px; }
+
+@keyframes pulse-red { 0%,100% { box-shadow: 0 0 0 0 rgba(220,38,38,.6);} 50% { box-shadow: 0 0 0 10px rgba(220,38,38,0);} }
+.pulse-red { animation: pulse-red 1.6s infinite; }
+
+mark.span { border-radius: 4px; padding: 0 2px; }

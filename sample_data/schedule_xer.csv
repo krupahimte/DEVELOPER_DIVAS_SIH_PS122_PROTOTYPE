@@ -1,0 +1,151 @@
+task_code,wbs,task_name,discipline,unit,area,work_front,target_start_date,target_end_date,act_start_date,act_end_date,pred_task_codes,scope_objects,permit_type,contractor,scope_package,action,object_class,line_no
+PIP-3-2201,RFX.U3.PIP.SHOP,Fabricate spools line 24-P-1203,Piping,Unit 3,Fabrication Shop,,2026-08-03,2026-08-28,,,,SPL-24-1203-01;SPL-24-1203-02;SPL-24-1203-03;SPL-24-1203-04;SPL-24-1203-05;SPL-24-1203-06,,C-LTH,Pkg-4 Piping,fabricate,spool,24-P-1203
+PIP-3-2202,RFX.U3.PIP.SHOP,Fabricate spools line 16-P-1207,Piping,Unit 3,Fabrication Shop,,2026-08-10,2026-09-04,,,,SPL-16-1207-01;SPL-16-1207-02;SPL-16-1207-03;SPL-16-1207-04;SPL-16-1207-05,,C-LTH,Pkg-4 Piping,fabricate,spool,16-P-1207
+PIP-3-2203,RFX.U3.PIP.SHOP,Fabricate spools line 12-P-1215,Piping,Unit 3,Fabrication Shop,,2026-08-01,2026-08-20,,,,SPL-12-1215-01;SPL-12-1215-02;SPL-12-1215-03;SPL-12-1215-04,,C-LTH,Pkg-4 Piping,fabricate,spool,12-P-1215
+PIP-3-2204,RFX.U3.PIP.SHOP,Fabricate spools line 8-P-1220,Piping,Unit 3,Fabrication Shop,,2026-08-12,2026-09-02,,,,SPL-8-1220-01;SPL-8-1220-02;SPL-8-1220-03,,C-LTH,Pkg-4 Piping,fabricate,spool,8-P-1220
+PIP-3-2205,RFX.U3.PIP.SHOP,Fabricate spools line 24-P-1108,Piping,Unit 3,Fabrication Shop,,2026-08-01,2026-08-25,,,,SPL-24-1108-01;SPL-24-1108-02;SPL-24-1108-03;SPL-24-1108-04;SPL-24-1108-05,,C-LTH,Pkg-4 Piping,fabricate,spool,24-P-1108
+PIP-3-2206,RFX.U3.PIP.SHOP,Fabricate spools line 10-P-1301,Piping,Unit 3,Fabrication Shop,,2026-08-18,2026-09-08,,,,SPL-10-1301-01;SPL-10-1301-02;SPL-10-1301-03,,C-LTH,Pkg-4 Piping,fabricate,spool,10-P-1301
+PIP-3-2340,RFX.U3.PIP.RACK-B,Erect spools line 24-P-1203 Rack B,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-09-10,2026-09-30,,,PIP-3-2201,SPL-24-1203-01;SPL-24-1203-02;SPL-24-1203-03;SPL-24-1203-04,,C-LTH,Pkg-4 Piping,erect,spool,24-P-1203
+PIP-3-2341,RFX.U3.PIP.RACK-C,Erect spools line 24-P-1203 Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-09-18,2026-10-05,,,PIP-3-2201,SPL-24-1203-05;SPL-24-1203-06,,C-LTH,Pkg-4 Piping,erect,spool,24-P-1203
+PIP-3-2342,RFX.U3.PIP.RACK-B,Erect spools line 16-P-1207 Rack B,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-12,2026-10-26,,,PIP-3-2202,SPL-16-1207-01;SPL-16-1207-02;SPL-16-1207-03;SPL-16-1207-04;SPL-16-1207-05,,C-LTH,Pkg-4 Piping,erect,spool,16-P-1207
+PIP-3-2345,RFX.U3.PIP.RACK-C,Erect spools line 12-P-1215 Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-08-25,2026-09-12,,,PIP-3-2203,SPL-12-1215-01;SPL-12-1215-02;SPL-12-1215-03;SPL-12-1215-04,,C-LTH,Pkg-4 Piping,erect,spool,12-P-1215
+PIP-3-2346,RFX.U3.PIP.RACK-C,Erect spools line 8-P-1220 Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-16,2026-10-28,,,PIP-3-2204,SPL-8-1220-01;SPL-8-1220-02;SPL-8-1220-03,,C-LTH,Pkg-4 Piping,erect,spool,8-P-1220
+PIP-3-2108,RFX.U3.PIP.TANK,Erect spools line 24-P-1108 Tank Farm,Piping,Unit 3,Tank Farm,WF-U3-TANK,2026-09-01,2026-09-16,,,PIP-3-2205,SPL-24-1108-01;SPL-24-1108-02;SPL-24-1108-03;SPL-24-1108-04;SPL-24-1108-05,,C-LTH,Pkg-4 Piping,erect,spool,24-P-1108
+PIP-3-2109,RFX.U3.PIP.PUMP,Erect spools line 10-P-1301 Pump House,Piping,Unit 3,Pump House,WF-U3-PUMP,2026-09-12,2026-09-28,,,PIP-3-2206,SPL-10-1301-01;SPL-10-1301-02;SPL-10-1301-03,,C-LTH,Pkg-4 Piping,erect,spool,10-P-1301
+PIP-3-2351,RFX.U3.PIP.RACK-C,Field weld joints line 12-P-1215 Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-09-15,2026-10-03,,,PIP-3-2345,,hot_work,C-LTH,Pkg-4 Piping,weld,joint,12-P-1215
+PIP-3-2352,RFX.U3.PIP.TANK,Field weld joints line 24-P-1108 Tank Farm,Piping,Unit 3,Tank Farm,WF-U3-TANK,2026-09-06,2026-09-19,,,PIP-3-2108,,hot_work,C-LTH,Pkg-4 Piping,weld,joint,24-P-1108
+PIP-3-2353,RFX.U3.PIP.RACK-B,Field weld joints line 24-P-1203 Rack B,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-09-22,2026-10-10,,,PIP-3-2340,,hot_work,C-LTH,Pkg-4 Piping,weld,joint,24-P-1203
+PIP-3-2361,RFX.U3.PIP.RACK-B,Install pipe supports Rack B,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-09-02,2026-09-20,,,,,hot_work,C-LTH,Pkg-4 Piping,install,support,
+PIP-3-2362,RFX.U3.PIP.RACK-C,Install pipe supports Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-08-20,2026-09-08,,,,,,C-LTH,Pkg-4 Piping,install,support,
+PIP-3-2401,RFX.U3.PIP.TANK,Hydrotest line 24-P-1108,Piping,Unit 3,Tank Farm,WF-U3-TANK,2026-09-20,2026-09-27,,,PIP-3-2352,,,C-LTH,Pkg-4 Piping,test,line,24-P-1108
+PIP-3-2402,RFX.U3.PIP.RACK-B,Hydrotest line 24-P-1203,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-14,2026-10-20,,,PIP-3-2340;PIP-3-2341;PIP-3-2353,,,C-LTH,Pkg-4 Piping,test,line,24-P-1203
+PIP-3-2403,RFX.U3.PIP.RACK-C,Pneumatic test line 12-P-1215,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-06,2026-10-09,,,PIP-3-2351,,,C-LTH,Pkg-4 Piping,test,line,12-P-1215
+PIP-3-2501,RFX.U3.PIP.TANK,Painting line 24-P-1108,Piping,Unit 3,Tank Farm,WF-U3-TANK,2026-09-28,2026-10-08,,,PIP-3-2401,,,C-LTH,Pkg-4 Piping,paint,line,24-P-1108
+PIP-3-2502,RFX.U3.PIP.PUMP,Insulation line 10-P-1301,Piping,Unit 3,Pump House,WF-U3-PUMP,2026-10-10,2026-10-24,,,PIP-3-2109,,,C-LTH,Pkg-4 Piping,insulate,line,10-P-1301
+PIP-2-2210,RFX.U2.PIP.SHOP,Fabricate spools line 18-P-2101,Piping,Unit 2,Fabrication Shop,,2026-08-05,2026-08-29,,,,SPL-18-2101-01;SPL-18-2101-02;SPL-18-2101-03;SPL-18-2101-04;SPL-18-2101-05,,C-LTH,Pkg-4 Piping,fabricate,spool,18-P-2101
+PIP-2-2211,RFX.U2.PIP.SHOP,Fabricate spools line 14-P-2110,Piping,Unit 2,Fabrication Shop,,2026-08-12,2026-09-06,,,,SPL-14-2110-01;SPL-14-2110-02;SPL-14-2110-03;SPL-14-2110-04,,C-LTH,Pkg-4 Piping,fabricate,spool,14-P-2110
+PIP-2-2212,RFX.U2.PIP.SHOP,Fabricate spools line 12-P-2120,Piping,Unit 2,Fabrication Shop,,2026-08-20,2026-09-10,,,,SPL-12-2120-01;SPL-12-2120-02;SPL-12-2120-03,,C-LTH,Pkg-4 Piping,fabricate,spool,12-P-2120
+PIP-2-2310,RFX.U2.PIP.RACK-A,Erect spools line 18-P-2101 Rack A,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-03,2026-09-22,,,PIP-2-2210,SPL-18-2101-01;SPL-18-2101-02;SPL-18-2101-03;SPL-18-2101-04;SPL-18-2101-05,,C-LTH,Pkg-4 Piping,erect,spool,18-P-2101
+PIP-2-2311,RFX.U2.PIP.RACK-A,Erect spools line 14-P-2110 Rack A,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-14,2026-10-02,,,PIP-2-2211,SPL-14-2110-01;SPL-14-2110-02;SPL-14-2110-03;SPL-14-2110-04,,C-LTH,Pkg-4 Piping,erect,spool,14-P-2110
+PIP-2-2312,RFX.U2.PIP.COMP,Erect spools line 12-P-2120 Compressor House,Piping,Unit 2,Compressor House,WF-U2-COMP,2026-09-16,2026-10-06,,,PIP-2-2212,SPL-12-2120-01;SPL-12-2120-02;SPL-12-2120-03,,C-LTH,Pkg-4 Piping,erect,spool,12-P-2120
+PIP-2-2350,RFX.U2.PIP.RACK-A,Field weld joints line 18-P-2101 Rack A,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-10,2026-09-30,,,PIP-2-2310,,hot_work,C-LTH,Pkg-4 Piping,weld,joint,18-P-2101
+PIP-2-2360,RFX.U2.PIP.RACK-A,Install pipe supports Rack A,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-08-25,2026-09-12,,,,,,C-LTH,Pkg-4 Piping,install,support,
+PIP-2-2410,RFX.U2.PIP.RACK-A,Hydrotest line 18-P-2101,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-10-05,2026-10-10,,,PIP-2-2350,,,C-LTH,Pkg-4 Piping,test,line,18-P-2101
+CIV-3-1100,RFX.U3.CIV.FDN,Excavation foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-10,2026-08-15,,,,FDN-F-10,excavation,C-BCW,Pkg-1 Civil,excavate,foundation,
+CIV-3-1110,RFX.U3.CIV.FDN,PCC foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-16,2026-08-18,,,CIV-3-1100,FDN-F-10,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1120,RFX.U3.CIV.FDN,Reinforcement foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-19,2026-08-24,,,CIV-3-1110,FDN-F-10,,C-BCW,Pkg-1 Civil,rebar,foundation,
+CIV-3-1130,RFX.U3.CIV.FDN,Shuttering foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-25,2026-08-28,,,CIV-3-1120,FDN-F-10,,C-BCW,Pkg-1 Civil,shutter,foundation,
+CIV-3-1140,RFX.U3.CIV.FDN,Concreting foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-29,2026-08-31,,,CIV-3-1130,FDN-F-10,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1150,RFX.U3.CIV.FDN,Backfilling foundation F-10,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-01,2026-09-04,,,CIV-3-1140,FDN-F-10,,C-BCW,Pkg-1 Civil,backfill,foundation,
+CIV-3-1101,RFX.U3.CIV.FDN,Excavation foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-20,2026-08-25,,,,FDN-F-11,excavation,C-BCW,Pkg-1 Civil,excavate,foundation,
+CIV-3-1111,RFX.U3.CIV.FDN,PCC foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-26,2026-08-28,,,CIV-3-1101,FDN-F-11,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1121,RFX.U3.CIV.FDN,Reinforcement foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-08-29,2026-09-03,,,CIV-3-1111,FDN-F-11,,C-BCW,Pkg-1 Civil,rebar,foundation,
+CIV-3-1131,RFX.U3.CIV.FDN,Shuttering foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-04,2026-09-07,,,CIV-3-1121,FDN-F-11,,C-BCW,Pkg-1 Civil,shutter,foundation,
+CIV-3-1141,RFX.U3.CIV.FDN,Concreting foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-08,2026-09-10,,,CIV-3-1131,FDN-F-11,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1151,RFX.U3.CIV.FDN,Backfilling foundation F-11,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-11,2026-09-14,,,CIV-3-1141,FDN-F-11,,C-BCW,Pkg-1 Civil,backfill,foundation,
+CIV-3-1102,RFX.U3.CIV.FDN,Excavation foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-01,2026-09-06,,,,FDN-F-12,excavation,C-BCW,Pkg-1 Civil,excavate,foundation,
+CIV-3-1112,RFX.U3.CIV.FDN,PCC foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-07,2026-09-09,,,CIV-3-1102,FDN-F-12,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1122,RFX.U3.CIV.FDN,Reinforcement foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-10,2026-09-15,,,CIV-3-1112,FDN-F-12,,C-BCW,Pkg-1 Civil,rebar,foundation,
+CIV-3-1132,RFX.U3.CIV.FDN,Shuttering foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-16,2026-09-19,,,CIV-3-1122,FDN-F-12,,C-BCW,Pkg-1 Civil,shutter,foundation,
+CIV-3-1142,RFX.U3.CIV.FDN,Concreting foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-20,2026-09-22,,,CIV-3-1132,FDN-F-12,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1152,RFX.U3.CIV.FDN,Backfilling foundation F-12,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-23,2026-09-26,,,CIV-3-1142,FDN-F-12,,C-BCW,Pkg-1 Civil,backfill,foundation,
+CIV-3-1103,RFX.U3.CIV.FDN,Excavation foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-10,2026-09-15,,,,FDN-F-13,excavation,C-BCW,Pkg-1 Civil,excavate,foundation,
+CIV-3-1113,RFX.U3.CIV.FDN,PCC foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-16,2026-09-18,,,CIV-3-1103,FDN-F-13,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1123,RFX.U3.CIV.FDN,Reinforcement foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-19,2026-09-24,,,CIV-3-1113,FDN-F-13,,C-BCW,Pkg-1 Civil,rebar,foundation,
+CIV-3-1133,RFX.U3.CIV.FDN,Shuttering foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-25,2026-09-28,,,CIV-3-1123,FDN-F-13,,C-BCW,Pkg-1 Civil,shutter,foundation,
+CIV-3-1143,RFX.U3.CIV.FDN,Concreting foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-29,2026-10-01,,,CIV-3-1133,FDN-F-13,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1153,RFX.U3.CIV.FDN,Backfilling foundation F-13,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-02,2026-10-05,,,CIV-3-1143,FDN-F-13,,C-BCW,Pkg-1 Civil,backfill,foundation,
+CIV-3-1104,RFX.U3.CIV.FDN,Excavation foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-22,2026-09-27,,,,FDN-F-14,excavation,C-BCW,Pkg-1 Civil,excavate,foundation,
+CIV-3-1114,RFX.U3.CIV.FDN,PCC foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-09-28,2026-09-30,,,CIV-3-1104,FDN-F-14,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1124,RFX.U3.CIV.FDN,Reinforcement foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-01,2026-10-06,,,CIV-3-1114,FDN-F-14,,C-BCW,Pkg-1 Civil,rebar,foundation,
+CIV-3-1134,RFX.U3.CIV.FDN,Shuttering foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-07,2026-10-10,,,CIV-3-1124,FDN-F-14,,C-BCW,Pkg-1 Civil,shutter,foundation,
+CIV-3-1144,RFX.U3.CIV.FDN,Concreting foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-11,2026-10-13,,,CIV-3-1134,FDN-F-14,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-3-1154,RFX.U3.CIV.FDN,Backfilling foundation F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-14,2026-10-17,,,CIV-3-1144,FDN-F-14,,C-BCW,Pkg-1 Civil,backfill,foundation,
+CIV-3-1301,RFX.U3.CIV.TANK,Tank pad T-301 ring wall concreting,Civil,Unit 3,Tank Farm,WF-U3-TANK,2026-08-05,2026-08-25,,,,,,C-BCW,Pkg-1 Civil,pour,ring wall,
+CIV-3-1302,RFX.U3.CIV.TANK,Tank pad T-301 sand filling and compaction,Civil,Unit 3,Tank Farm,WF-U3-TANK,2026-08-26,2026-09-08,,,CIV-3-1301,,,C-BCW,Pkg-1 Civil,fill,tank pad,
+CIV-3-1310,RFX.U3.CIV.PUMP,Pump foundation P-101A/B concreting,Civil,Unit 3,Pump House,WF-U3-PUMP,2026-08-04,2026-08-18,,,,,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-2-1401,RFX.U2.CIV.CT,Cooling tower basin raft concreting,Civil,Unit 2,Cooling Tower,WF-U2-CT,2026-08-01,2026-08-22,,,,,,C-BCW,Pkg-1 Civil,pour,basin,
+CIV-2-1402,RFX.U2.CIV.CT,Cooling tower basin wall shuttering,Civil,Unit 2,Cooling Tower,WF-U2-CT,2026-08-23,2026-09-10,,,CIV-2-1401,,,C-BCW,Pkg-1 Civil,shutter,basin,
+CIV-2-1403,RFX.U2.CIV.CT,Cooling tower basin wall concreting,Civil,Unit 2,Cooling Tower,WF-U2-CT,2026-09-11,2026-09-24,,,CIV-2-1402,,confined_space,C-BCW,Pkg-1 Civil,pour,basin,
+CIV-2-1404,RFX.U2.CIV.CT,Cooling tower basin waterproofing,Civil,Unit 2,Cooling Tower,WF-U2-CT,2026-09-25,2026-10-10,,,CIV-2-1403,,confined_space,C-BCW,Pkg-1 Civil,coat,basin,
+CIV-2-1410,RFX.U2.CIV.COMP,Compressor foundation K-201 concreting,Civil,Unit 2,Compressor House,WF-U2-COMP,2026-08-01,2026-08-16,,,,,,C-BCW,Pkg-1 Civil,pour,foundation,
+CIV-2-1420,RFX.U2.CIV.SUBSTN,Substation SS-2 building brickwork,Civil,Unit 2,Substation,WF-U2-SUBSTN,2026-08-01,2026-08-24,,,,,,C-BCW,Pkg-1 Civil,build,brickwork,
+CIV-2-1421,RFX.U2.CIV.SUBSTN,Substation SS-2 cable trench,Civil,Unit 2,Substation,WF-U2-SUBSTN,2026-08-20,2026-09-06,,,,,excavation,C-BCW,Pkg-1 Civil,excavate,trench,
+CIV-2-1430,RFX.U2.CIV.STRUCT,Structure ST-2 pedestal grouting,Civil,Unit 2,Structures,WF-U2-STRUCT,2026-08-18,2026-08-30,,,,,,C-BCW,Pkg-1 Civil,grout,pedestal,
+STR-3-4101,RFX.U3.STR.RACK-B,Erect structural steel Rack B,Structural,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-08-01,2026-08-25,,,,,height,C-KST,Pkg-2 Structural,erect,steel,
+STR-3-4102,RFX.U3.STR.RACK-C,Erect structural steel Rack C,Structural,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-08-05,2026-08-28,,,,,height,C-KST,Pkg-2 Structural,erect,steel,
+STR-3-4110,RFX.U3.STR.PUMP,Pump house roof sheeting,Structural,Unit 3,Pump House,WF-U3-PUMP,2026-09-01,2026-09-18,,,,,height,C-KST,Pkg-2 Structural,install,roof sheeting,
+STR-2-4200,RFX.U2.STR.STRUCT,Erect columns and beams ST-2 EL +6m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-08-31,2026-09-10,,,CIV-2-1430,,height,C-KST,Pkg-2 Structural,erect,steel,
+STR-2-4210,RFX.U2.STR.STRUCT,Bolt torquing ST-2 EL +6m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-09-05,2026-09-14,,,STR-2-4200,,height,C-KST,Pkg-2 Structural,torque,bolt,
+STR-2-4201,RFX.U2.STR.STRUCT,Erect columns and beams ST-2 EL +12m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-09-11,2026-09-24,,,STR-2-4200,,height,C-KST,Pkg-2 Structural,erect,steel,
+STR-2-4211,RFX.U2.STR.STRUCT,Bolt torquing ST-2 EL +12m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-09-16,2026-09-28,,,STR-2-4201,,height,C-KST,Pkg-2 Structural,torque,bolt,
+STR-2-4202,RFX.U2.STR.STRUCT,Erect columns and beams ST-2 EL +18m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-09-25,2026-10-08,,,STR-2-4201,,height,C-KST,Pkg-2 Structural,erect,steel,
+STR-2-4212,RFX.U2.STR.STRUCT,Bolt torquing ST-2 EL +18m,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-09-30,2026-10-12,,,STR-2-4202,,height,C-KST,Pkg-2 Structural,torque,bolt,
+STR-2-4230,RFX.U2.STR.STRUCT,Grating and handrail ST-2,Structural,Unit 2,Structures,WF-U2-STRUCT,2026-10-09,2026-10-25,,,STR-2-4202,,height,C-KST,Pkg-2 Structural,install,grating,
+STR-2-4240,RFX.U2.STR.COMP,Compressor house crane girder erection,Structural,Unit 2,Compressor House,WF-U2-COMP,2026-09-01,2026-09-15,,,,,height,C-KST,Pkg-2 Structural,erect,girder,
+ELE-2-3001,RFX.U2.ELE.SUBSTN,Transformer TR-201 installation,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-08-25,2026-09-08,,,,,,C-NEE,Pkg-6 E&I,install,transformer,
+ELE-2-3002,RFX.U2.ELE.SUBSTN,HT panel erection SS-2,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-09-01,2026-09-14,,,,,,C-NEE,Pkg-6 E&I,erect,panel,
+ELE-2-3003,RFX.U2.ELE.SUBSTN,LT panel erection SS-2,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-09-08,2026-09-22,,,,,,C-NEE,Pkg-6 E&I,erect,panel,
+ELE-2-3010,RFX.U2.ELE.SUBSTN,Earthing grid SS-2,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-08-18,2026-09-04,,,,,excavation,C-NEE,Pkg-6 E&I,lay,earthing,
+ELE-2-3051,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-1,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-08-28,2026-09-04,,,,TRAY-T-1,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3101,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-1,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-03,2026-09-13,,,ELE-2-3051,TRAY-T-1,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3052,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-2,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-02,2026-09-09,,,,TRAY-T-2,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3102,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-2,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-08,2026-09-18,,,ELE-2-3052,TRAY-T-2,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3053,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-3,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-07,2026-09-14,,,,TRAY-T-3,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3103,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-3,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-13,2026-09-23,,,ELE-2-3053,TRAY-T-3,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3054,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-4,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-12,2026-09-19,,,,TRAY-T-4,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3100,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-4,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-18,2026-09-28,,,ELE-2-3054,TRAY-T-4,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3055,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-5,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-17,2026-09-24,,,,TRAY-T-5,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3105,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-5,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-23,2026-10-03,,,ELE-2-3055,TRAY-T-5,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3056,RFX.U2.ELE.RACK-A,Cable tray installation Unit 2 tray T-6,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-22,2026-09-29,,,,TRAY-T-6,height,C-NEE,Pkg-6 E&I,install,tray,
+ELE-2-3106,RFX.U2.ELE.RACK-A,Cable pulling Unit 2 tray T-6,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-09-28,2026-10-08,,,ELE-2-3056,TRAY-T-6,,C-NEE,Pkg-6 E&I,pull,cable,
+ELE-2-3200,RFX.U2.ELE.SUBSTN,Cable termination HT panel SS-2,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-09-20,2026-10-06,,,ELE-2-3002,,,C-NEE,Pkg-6 E&I,terminate,cable,
+ELE-2-3201,RFX.U2.ELE.SUBSTN,Cable termination LT panel SS-2,Electrical,Unit 2,Substation,WF-U2-SUBSTN,2026-10-01,2026-10-15,,,ELE-2-3003,,,C-NEE,Pkg-6 E&I,terminate,cable,
+ELE-2-3300,RFX.U2.ELE.COMP,Lighting fixtures compressor house,Electrical,Unit 2,Compressor House,WF-U2-COMP,2026-09-20,2026-10-08,,,,,,C-NEE,Pkg-6 E&I,install,lighting,
+ELE-3-3400,RFX.U3.ELE.PUMP,Motor cabling pumps P-101A/B,Electrical,Unit 3,Pump House,WF-U3-PUMP,2026-09-18,2026-10-02,,,,,,C-NEE,Pkg-6 E&I,pull,cable,
+INS-3-5001,RFX.U3.INS.PUMP,Install instruments pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-05,2026-09-20,,,,,,C-NEE,Pkg-6 E&I,install,instrument,
+INS-3-5002,RFX.U3.INS.PUMP,Impulse tubing pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-12,2026-09-28,,,INS-3-5001,,,C-NEE,Pkg-6 E&I,install,tubing,
+INS-3-5010,RFX.U3.INS.RACK-B,Instrument cable tray Rack B,Instrumentation,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-08-24,2026-09-10,,,,,height,C-NEE,Pkg-6 E&I,install,tray,
+INS-3-5011,RFX.U3.INS.RACK-C,Instrument cable tray Rack C,Instrumentation,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-09-01,2026-09-16,,,,,height,C-NEE,Pkg-6 E&I,install,tray,
+INS-3-5100,RFX.U3.INS.PUMP,Loop check L-301 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-08,2026-09-11,,,INS-3-5001,LOOP-L-301,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5101,RFX.U3.INS.PUMP,Loop check L-302 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-12,2026-09-15,,,INS-3-5001,LOOP-L-302,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5102,RFX.U3.INS.PUMP,Loop check L-303 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-16,2026-09-19,,,INS-3-5001,LOOP-L-303,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5103,RFX.U3.INS.PUMP,Loop check L-304 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-20,2026-09-23,,,INS-3-5001,LOOP-L-304,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5104,RFX.U3.INS.PUMP,Loop check L-305 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-24,2026-09-27,,,INS-3-5001,LOOP-L-305,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5105,RFX.U3.INS.PUMP,Loop check L-306 pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-28,2026-10-01,,,INS-3-5001,LOOP-L-306,,C-NEE,Pkg-6 E&I,test,loop,
+INS-3-5200,RFX.U3.INS.PUMP,Calibration of transmitters pump house,Instrumentation,Unit 3,Pump House,WF-U3-PUMP,2026-09-02,2026-09-14,,,,,,C-NEE,Pkg-6 E&I,calibrate,transmitter,
+INS-3-5300,RFX.U3.INS.RACK-B,Install flow meters Rack B,Instrumentation,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-01,2026-10-15,,,,,,C-NEE,Pkg-6 E&I,install,flow meter,
+MEC-3-6001,RFX.U3.MEC.PUMP,Pump P-101A setting and levelling,Mechanical,Unit 3,Pump House,WF-U3-PUMP,2026-08-24,2026-09-04,,,CIV-3-1310,P-101A,,C-DMX,Pkg-5 Mechanical,install,pump,
+MEC-3-6002,RFX.U3.MEC.PUMP,Pump P-101B setting and levelling,Mechanical,Unit 3,Pump House,WF-U3-PUMP,2026-08-28,2026-09-09,,,CIV-3-1310,P-101B,,C-DMX,Pkg-5 Mechanical,install,pump,
+MEC-3-6003,RFX.U3.MEC.PUMP,Pump P-101A alignment,Mechanical,Unit 3,Pump House,WF-U3-PUMP,2026-09-10,2026-09-18,,,MEC-3-6001,P-101A,,C-DMX,Pkg-5 Mechanical,align,pump,
+MEC-3-6004,RFX.U3.MEC.PUMP,Pump P-101B alignment,Mechanical,Unit 3,Pump House,WF-U3-PUMP,2026-09-14,2026-09-23,,,MEC-3-6002,P-101B,,C-DMX,Pkg-5 Mechanical,align,pump,
+MEC-3-6010,RFX.U3.MEC.TANK,Tank T-301 shell plate erection,Mechanical,Unit 3,Tank Farm,WF-U3-TANK,2026-09-09,2026-10-10,,,CIV-3-1302,,hot_work,C-DMX,Pkg-5 Mechanical,erect,tank shell,
+MEC-3-6011,RFX.U3.MEC.TANK,Tank T-301 roof erection,Mechanical,Unit 3,Tank Farm,WF-U3-TANK,2026-10-12,2026-10-30,,,MEC-3-6010,,height,C-DMX,Pkg-5 Mechanical,erect,tank roof,
+MEC-2-6101,RFX.U2.MEC.COMP,Compressor K-201 setting on foundation,Mechanical,Unit 2,Compressor House,WF-U2-COMP,2026-09-02,2026-09-14,,,CIV-2-1410,K-201,,C-DMX,Pkg-5 Mechanical,install,compressor,
+MEC-2-6102,RFX.U2.MEC.COMP,Compressor K-201 grouting,Mechanical,Unit 2,Compressor House,WF-U2-COMP,2026-09-15,2026-09-21,,,MEC-2-6101,K-201,,C-DMX,Pkg-5 Mechanical,grout,compressor,
+MEC-2-6103,RFX.U2.MEC.COMP,Compressor K-201 alignment,Mechanical,Unit 2,Compressor House,WF-U2-COMP,2026-09-22,2026-10-06,,,MEC-2-6102,K-201,,C-DMX,Pkg-5 Mechanical,align,compressor,
+MEC-2-6104,RFX.U2.MEC.COMP,Compressor K-201 lube oil flushing,Mechanical,Unit 2,Compressor House,WF-U2-COMP,2026-10-07,2026-10-20,,,MEC-2-6103,K-201,,C-DMX,Pkg-5 Mechanical,flush,compressor,
+MEC-2-6110,RFX.U2.MEC.CT,Cooling tower fan installation,Mechanical,Unit 2,Cooling Tower,WF-U2-CT,2026-10-12,2026-10-28,,,CIV-2-1404,,height,C-DMX,Pkg-5 Mechanical,install,fan,
+CIV-3-1900,RFX.U3.CIV.FDN,Area grading and levelling Unit 3,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-05,2026-10-15,,,,,,C-BCW,Pkg-1 Civil,level,grade,
+CIV-3-1901,RFX.U3.CIV.PUMP,Precast cover slabs cable trench Unit 3,Civil,Unit 3,Pump House,WF-U3-PUMP,2026-10-07,2026-10-17,,,,,,C-BCW,Pkg-1 Civil,install,slab,
+CIV-2-1901,RFX.U2.CIV.SUBSTN,Paving around substation SS-2,Civil,Unit 2,Substation,WF-U2-SUBSTN,2026-10-09,2026-10-19,,,,,,C-BCW,Pkg-1 Civil,pave,paving,
+STR-3-4900,RFX.U3.STR.RACK-B,Primer touch-up Rack B steel,Structural,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-11,2026-10-21,,,,,,C-KST,Pkg-2 Structural,paint,steel,
+STR-3-4901,RFX.U3.STR.RACK-C,Primer touch-up Rack C steel,Structural,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-13,2026-10-23,,,,,,C-KST,Pkg-2 Structural,paint,steel,
+ELE-2-3900,RFX.U2.ELE.RACK-A,Street lighting poles Unit 2,Electrical,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-10-15,2026-10-25,,,,,,C-NEE,Pkg-6 E&I,install,pole,
+INS-3-5900,RFX.U3.INS.RACK-C,Junction box mounting Rack C,Instrumentation,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-17,2026-10-27,,,,,,C-NEE,Pkg-6 E&I,install,junction box,
+MEC-3-6900,RFX.U3.MEC.PUMP,Pump house EOT crane load test,Mechanical,Unit 3,Pump House,WF-U3-PUMP,2026-10-19,2026-10-29,,,,,,C-DMX,Pkg-5 Mechanical,test,crane,
+PIP-3-8001,RFX.U3.PIP.RACK-B,Punch list clearance piping Rack B,Piping,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-15,2026-10-23,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-3-8002,RFX.U3.PIP.RACK-C,Punch list clearance piping Rack C,Piping,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-16,2026-10-24,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-3-8003,RFX.U3.PIP.FDN,Punch list clearance piping Foundations F-10–F-14,Piping,Unit 3,Civil Area,WF-U3-FDN,2026-10-17,2026-10-25,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-3-8004,RFX.U3.PIP.PUMP,Punch list clearance piping Pump House,Piping,Unit 3,Pump House,WF-U3-PUMP,2026-10-18,2026-10-26,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-3-8005,RFX.U3.PIP.TANK,Punch list clearance piping Tank Farm,Piping,Unit 3,Tank Farm,WF-U3-TANK,2026-10-19,2026-10-27,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-2-8006,RFX.U2.PIP.SUBSTN,Punch list clearance piping Substation SS-2,Piping,Unit 2,Substation,WF-U2-SUBSTN,2026-10-20,2026-10-28,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-2-8007,RFX.U2.PIP.RACK-A,Punch list clearance piping Rack A,Piping,Unit 2,Pipe Racks,WF-U2-RACK-A,2026-10-21,2026-10-29,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-2-8008,RFX.U2.PIP.COMP,Punch list clearance piping Compressor House,Piping,Unit 2,Compressor House,WF-U2-COMP,2026-10-22,2026-10-30,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-2-8009,RFX.U2.PIP.STRUCT,Punch list clearance piping Structure ST-2,Piping,Unit 2,Structures,WF-U2-STRUCT,2026-10-23,2026-10-31,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+PIP-2-8010,RFX.U2.PIP.CT,Punch list clearance piping Cooling Tower,Piping,Unit 2,Cooling Tower,WF-U2-CT,2026-10-24,2026-11-01,,,,,,C-LTH,Pkg-4 Piping,clear,punch,
+CIV-3-8011,RFX.U3.CIV.RACK-B,Punch list clearance civil Rack B,Civil,Unit 3,Pipe Racks,WF-U3-RACK-B,2026-10-25,2026-11-02,,,,,,C-BCW,Pkg-1 Civil,clear,punch,
+CIV-3-8012,RFX.U3.CIV.RACK-C,Punch list clearance civil Rack C,Civil,Unit 3,Pipe Racks,WF-U3-RACK-C,2026-10-14,2026-10-22,,,,,,C-BCW,Pkg-1 Civil,clear,punch,
+CIV-3-8013,RFX.U3.CIV.FDN,Punch list clearance civil Foundations F-10–F-14,Civil,Unit 3,Civil Area,WF-U3-FDN,2026-10-15,2026-10-23,,,,,,C-BCW,Pkg-1 Civil,clear,punch,
+CIV-3-8014,RFX.U3.CIV.PUMP,Punch list clearance civil Pump House,Civil,Unit 3,Pump House,WF-U3-PUMP,2026-10-16,2026-10-24,,,,,,C-BCW,Pkg-1 Civil,clear,punch,
+CIV-3-8015,RFX.U3.CIV.TANK,Punch list clearance civil Tank Farm,Civil,Unit 3,Tank Farm,WF-U3-TANK,2026-10-17,2026-10-25,,,,,,C-BCW,Pkg-1 Civil,clear,punch,

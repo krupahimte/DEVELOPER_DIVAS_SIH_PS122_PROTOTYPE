@@ -1,0 +1,23 @@
+{
+ "spool_erection_rackb.jpg": [
+  "pipe_section",
+  "flange",
+  "steel_structure",
+  "crane",
+  "worker"
+ ],
+ "hydrotest_line24_gauge.jpg": [
+  "pressure_gauge",
+  "pipe_section",
+  "hose",
+  "worker"
+ ],
+ "site_photo_no_exif.jpg": [
+  "worker",
+  "site_background"
+ ],
+ "spool_rackb_old.jpg": [
+  "pipe_section",
+  "steel_structure"
+ ]
+}

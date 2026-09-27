@@ -1,0 +1,365 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U3-RACK-B",
+    "name": "Rack B",
+    "unit": "Unit 3",
+    "area": "Pipe Racks"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.337,
+       27.474
+      ],
+      [
+       95.338,
+       27.474
+      ],
+      [
+       95.338,
+       27.4746
+      ],
+      [
+       95.337,
+       27.4746
+      ],
+      [
+       95.337,
+       27.474
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U3-RACK-C",
+    "name": "Rack C",
+    "unit": "Unit 3",
+    "area": "Pipe Racks"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.3381,
+       27.474
+      ],
+      [
+       95.3391,
+       27.474
+      ],
+      [
+       95.3391,
+       27.4746
+      ],
+      [
+       95.3381,
+       27.4746
+      ],
+      [
+       95.3381,
+       27.474
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U3-FDN",
+    "name": "Foundations F-10\u2013F-14",
+    "unit": "Unit 3",
+    "area": "Civil Area"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.337,
+       27.473
+      ],
+      [
+       95.3382,
+       27.473
+      ],
+      [
+       95.3382,
+       27.4737
+      ],
+      [
+       95.337,
+       27.4737
+      ],
+      [
+       95.337,
+       27.473
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U3-PUMP",
+    "name": "Pump House",
+    "unit": "Unit 3",
+    "area": "Pump House"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.3385,
+       27.473
+      ],
+      [
+       95.3395,
+       27.473
+      ],
+      [
+       95.3395,
+       27.4736
+      ],
+      [
+       95.3385,
+       27.4736
+      ],
+      [
+       95.3385,
+       27.473
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U3-TANK",
+    "name": "Tank Farm",
+    "unit": "Unit 3",
+    "area": "Tank Farm"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.337,
+       27.4748
+      ],
+      [
+       95.3385,
+       27.4748
+      ],
+      [
+       95.3385,
+       27.4756
+      ],
+      [
+       95.337,
+       27.4756
+      ],
+      [
+       95.337,
+       27.4748
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U2-SUBSTN",
+    "name": "Substation SS-2",
+    "unit": "Unit 2",
+    "area": "Substation"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.341,
+       27.466
+      ],
+      [
+       95.342,
+       27.466
+      ],
+      [
+       95.342,
+       27.4666
+      ],
+      [
+       95.341,
+       27.4666
+      ],
+      [
+       95.341,
+       27.466
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U2-RACK-A",
+    "name": "Rack A",
+    "unit": "Unit 2",
+    "area": "Pipe Racks"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.341,
+       27.4668
+      ],
+      [
+       95.3425,
+       27.4668
+      ],
+      [
+       95.3425,
+       27.4674
+      ],
+      [
+       95.341,
+       27.4674
+      ],
+      [
+       95.341,
+       27.4668
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U2-COMP",
+    "name": "Compressor House",
+    "unit": "Unit 2",
+    "area": "Compressor House"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.3423,
+       27.466
+      ],
+      [
+       95.3433,
+       27.466
+      ],
+      [
+       95.3433,
+       27.4666
+      ],
+      [
+       95.3423,
+       27.4666
+      ],
+      [
+       95.3423,
+       27.466
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U2-STRUCT",
+    "name": "Structure ST-2",
+    "unit": "Unit 2",
+    "area": "Structures"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.341,
+       27.4652
+      ],
+      [
+       95.3422,
+       27.4652
+      ],
+      [
+       95.3422,
+       27.4658
+      ],
+      [
+       95.341,
+       27.4658
+      ],
+      [
+       95.341,
+       27.4652
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "WF-U2-CT",
+    "name": "Cooling Tower",
+    "unit": "Unit 2",
+    "area": "Cooling Tower"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       95.3425,
+       27.4652
+      ],
+      [
+       95.3437,
+       27.4652
+      ],
+      [
+       95.3437,
+       27.4658
+      ],
+      [
+       95.3425,
+       27.4658
+      ],
+      [
+       95.3425,
+       27.4652
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
